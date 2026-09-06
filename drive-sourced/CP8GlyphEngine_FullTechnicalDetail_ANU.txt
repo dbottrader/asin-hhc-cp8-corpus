@@ -1,0 +1,5 @@
+**CP8 Glyph Engine — Full Technical Detail (ANU-28 Edition)**
+
+The **CP8 Glyph Engine** is the production-grade, sacred-geometry-native tokenizer + decoder-only transformer that powers the entire Mo
+
+[Full content available in local artifacts and to be completed via follow-up full push. Core description and technical detail document downloaded from Google Drive.]

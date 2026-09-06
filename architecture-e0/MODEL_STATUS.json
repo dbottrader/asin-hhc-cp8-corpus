@@ -1,0 +1,30 @@
+{
+  "artifact_id": "ASIN-HHC-CP8-ARCH-E0-20260711",
+  "title": "ASIN-HHC CP8 Geometric Transformer \u2014 Architecture E0",
+  "release_date": "2026-07-11",
+  "evidence_tier": "E0",
+  "artifact_type": "architecture_and_reconstruction_package",
+  "trained_weights_present": false,
+  "canonical_tokenizer_present": false,
+  "training_dataset_present": false,
+  "training_receipt_present": false,
+  "independent_reproduction_present": false,
+  "inference_ready": false,
+  "parameter_target_approx": 124000000,
+  "architecture": {
+    "family": "GPT-2-class causal transformer",
+    "layers": 12,
+    "attention_heads": 12,
+    "embedding_dimension": 768,
+    "context_window": 512,
+    "vocabulary_target": 1024,
+    "weight_tying": true
+  },
+  "promotion_blockers": [
+    "No trained checkpoint located",
+    "No canonical 1,024-token tokenizer mapping located",
+    "No training dataset or dataset manifest located",
+    "No reproducible training receipt located",
+    "No held-out evaluation located"
+  ]
+}

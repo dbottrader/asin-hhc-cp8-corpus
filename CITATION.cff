@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: ASIN-HHC CP8 Corpus
+authors:
+  - family-names: Christie
+    given-names: Dennis
+date-released: "2026-09-06"
+license: MIT
+repository-code: "https://github.com/dbottrader/asin-hhc-cp8-corpus"
